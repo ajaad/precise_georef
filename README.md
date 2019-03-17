@@ -59,9 +59,7 @@ $ ls *.png | georef.sh
 ```
 
 ![alt text](https://github.com/ajaad/precise_georef/blob/master/img/maridalen_kart-000_qgiswld.png "maridalen_kart-000")
-
 ![alt text](https://github.com/ajaad/precise_georef/blob/master/img/maridalen_kart-010_qgiswld.png "maridalen_kart-010")
-
 ![alt text](https://github.com/ajaad/precise_georef/blob/master/img/maridalen_kart-020_qgiswld.png "maridalen_kart-020")
 
 ## References
