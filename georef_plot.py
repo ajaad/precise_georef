@@ -57,7 +57,8 @@ def drms_plot(input_val, navn):
                                fill=False,
                                linewidth=line_w_cir))
     
-    
+    colors="black"
+    punkt = ax.scatter(x_list, y_list, c=colors, alpha=1, label='Punkter')
     
     ax.legend([cep_obj, drms_obj, t_drms_obj], ["CEP", "DRMS","2DRMS"])
     
