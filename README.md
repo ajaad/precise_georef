@@ -18,6 +18,7 @@ These script utilizes the following GDAL executables:
 
 * gdal_translate
 * gdaltransform
+* gcps2wld.py
 
 And the following python libraries:
 
